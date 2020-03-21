@@ -10,7 +10,7 @@ function getSiteInfo() {
 }
 
 function goBlog(){
-	chrome.tabs.create({url: "http://dev592.cafe24.com/blog"});
+	chrome.tabs.create({url: "http://dev592.cafe24.com/blog/tmpl.html"});
 }
 
 function goTagList(){
